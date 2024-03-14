@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/widget/static/css/main.55a759de.css",
-    "main.js": "/widget/static/js/main.aabc2b54.js",
+    "main.js": "/widget/static/js/main.c3329223.js",
     "static/js/1889.288f1156.chunk.js": "/widget/static/js/1889.288f1156.chunk.js",
     "static/js/2559.d4f547f5.chunk.js": "/widget/static/js/2559.d4f547f5.chunk.js",
     "static/js/9158.7f3266da.chunk.js": "/widget/static/js/9158.7f3266da.chunk.js",
-    "static/js/6842.825d9dd3.chunk.js": "/widget/static/js/6842.825d9dd3.chunk.js",
+    "static/js/6842.9c490933.chunk.js": "/widget/static/js/6842.9c490933.chunk.js",
     "static/js/92.80f1de7a.chunk.js": "/widget/static/js/92.80f1de7a.chunk.js",
     "static/js/5812.03a70894.chunk.js": "/widget/static/js/5812.03a70894.chunk.js",
     "static/css/1738.9673e236.chunk.css": "/widget/static/css/1738.9673e236.chunk.css",
@@ -76,11 +76,11 @@
     "static/js/3519.8dc2e5bd.chunk.js": "/widget/static/js/3519.8dc2e5bd.chunk.js",
     "index.html": "/widget/index.html",
     "main.55a759de.css.map": "/widget/static/css/main.55a759de.css.map",
-    "main.aabc2b54.js.map": "/widget/static/js/main.aabc2b54.js.map",
+    "main.c3329223.js.map": "/widget/static/js/main.c3329223.js.map",
     "1889.288f1156.chunk.js.map": "/widget/static/js/1889.288f1156.chunk.js.map",
     "2559.d4f547f5.chunk.js.map": "/widget/static/js/2559.d4f547f5.chunk.js.map",
     "9158.7f3266da.chunk.js.map": "/widget/static/js/9158.7f3266da.chunk.js.map",
-    "6842.825d9dd3.chunk.js.map": "/widget/static/js/6842.825d9dd3.chunk.js.map",
+    "6842.9c490933.chunk.js.map": "/widget/static/js/6842.9c490933.chunk.js.map",
     "92.80f1de7a.chunk.js.map": "/widget/static/js/92.80f1de7a.chunk.js.map",
     "5812.03a70894.chunk.js.map": "/widget/static/js/5812.03a70894.chunk.js.map",
     "1738.9673e236.chunk.css.map": "/widget/static/css/1738.9673e236.chunk.css.map",
@@ -152,6 +152,6 @@
   },
   "entrypoints": [
     "static/css/main.55a759de.css",
-    "static/js/main.aabc2b54.js"
+    "static/js/main.c3329223.js"
   ]
 }
