@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "https://widget.taggbox.com/widget/static/css/main.c9aa50be.css",
-    "main.js": "https://widget.taggbox.com/widget/static/js/main.274fb9ff.js",
+    "main.js": "https://widget.taggbox.com/widget/static/js/main.d40c8563.js",
     "static/js/7774.3f8dd80f.chunk.js": "https://widget.taggbox.com/widget/static/js/7774.3f8dd80f.chunk.js",
     "static/js/4355.c5c01acd.chunk.js": "https://widget.taggbox.com/widget/static/js/4355.c5c01acd.chunk.js",
     "static/js/3032.f24d6ebd.chunk.js": "https://widget.taggbox.com/widget/static/js/3032.f24d6ebd.chunk.js",
-    "static/js/5807.eba86d06.chunk.js": "https://widget.taggbox.com/widget/static/js/5807.eba86d06.chunk.js",
+    "static/js/5807.afc3e140.chunk.js": "https://widget.taggbox.com/widget/static/js/5807.afc3e140.chunk.js",
     "static/js/3478.f0c112af.chunk.js": "https://widget.taggbox.com/widget/static/js/3478.f0c112af.chunk.js",
     "static/js/9031.86d386ed.chunk.js": "https://widget.taggbox.com/widget/static/js/9031.86d386ed.chunk.js",
     "static/js/8454.5f3659a4.chunk.js": "https://widget.taggbox.com/widget/static/js/8454.5f3659a4.chunk.js",
@@ -135,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.c9aa50be.css",
-    "static/js/main.274fb9ff.js"
+    "static/js/main.d40c8563.js"
   ]
 }
