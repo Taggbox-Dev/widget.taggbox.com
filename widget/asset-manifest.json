@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.taggbox.com/widget/static/css/main.fe29c8ce.css",
-    "main.js": "https://widget.taggbox.com/widget/static/js/main.867f61d8.js",
+    "main.js": "https://widget.taggbox.com/widget/static/js/main.aff45fa4.js",
     "static/css/2563.7e5ff367.chunk.css": "https://widget.taggbox.com/widget/static/css/2563.7e5ff367.chunk.css",
     "static/js/2563.5e53bb0e.chunk.js": "https://widget.taggbox.com/widget/static/js/2563.5e53bb0e.chunk.js",
     "static/css/142.546acb9c.chunk.css": "https://widget.taggbox.com/widget/static/css/142.546acb9c.chunk.css",
@@ -177,14 +177,13 @@
     "static/js/1823.de4e89c8.chunk.js": "https://widget.taggbox.com/widget/static/js/1823.de4e89c8.chunk.js",
     "static/js/3556.700d11fe.chunk.js": "https://widget.taggbox.com/widget/static/js/3556.700d11fe.chunk.js",
     "static/js/8400.92fc984c.chunk.js": "https://widget.taggbox.com/widget/static/js/8400.92fc984c.chunk.js",
-    "static/js/524.ca31b1ae.chunk.js": "https://widget.taggbox.com/widget/static/js/524.ca31b1ae.chunk.js",
+    "static/js/524.8f339678.chunk.js": "https://widget.taggbox.com/widget/static/js/524.8f339678.chunk.js",
     "static/js/2041.c1c5e48b.chunk.js": "https://widget.taggbox.com/widget/static/js/2041.c1c5e48b.chunk.js",
     "static/js/4799.ed883422.chunk.js": "https://widget.taggbox.com/widget/static/js/4799.ed883422.chunk.js",
-    "index.html": "https://widget.taggbox.com/widget/index.html",
-    "static/media/index.cjs": "https://widget.taggbox.com/widget/static/media/index.f6d03137e8c9dd0de04c.cjs"
+    "index.html": "https://widget.taggbox.com/widget/index.html"
   },
   "entrypoints": [
     "static/css/main.fe29c8ce.css",
-    "static/js/main.867f61d8.js"
+    "static/js/main.aff45fa4.js"
   ]
 }
