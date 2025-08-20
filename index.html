@@ -26,8 +26,8 @@
     <script></script>
     <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", (e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } }))</script>
     <script defer="defer"
-        src="https://widget.taggbox.com/widget/static/js/main.f1e2ca177cd7fe45d720.js?v=202508201027"></script>
-    <link href="https://widget.taggbox.com/widget/static/css/main.88f5404938922bf4c136.css?v=202508201027"
+        src="https://widget.taggbox.com/widget/static/js/main.fbb0f69f62db70bf43cc.js?v=202508201216"></script>
+    <link href="https://widget.taggbox.com/widget/static/css/main.88f5404938922bf4c136.css?v=202508201216"
         rel="stylesheet">
 </head>
 
