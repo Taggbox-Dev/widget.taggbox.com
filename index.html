@@ -25,10 +25,10 @@
     <link rel="preconnect" href="https://api.taggbox.com" defer="defer" />
     <link rel="preconnect" href="https://cdn.taggbox.com" defer="defer" />
     <script></script>
-    <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", (e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } }))</script>
+    <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } })</script>
     <script defer="defer"
-        src="https://widget.taggbox.com/widget/static/js/main.53b7c32804f241ffc8a2.js?v=202512051702"></script>
-    <link href="https://widget.taggbox.com/widget/static/css/main.8381ffcb8aa8625b4e2f.css?v=202512051702"
+        src="https://widget.taggbox.com/widget/static/js/main.2fb026a54c83200036f5.js?v=202512100601"></script>
+    <link href="https://widget.taggbox.com/widget/static/css/main.8381ffcb8aa8625b4e2f.css?v=202512100601"
         rel="stylesheet">
 </head>
 
